@@ -3,3 +3,4 @@
 shellui_hook_elf.c
 build/
 hook-build/
+.tmp/

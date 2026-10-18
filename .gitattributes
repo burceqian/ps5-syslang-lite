@@ -1,0 +1,4 @@
+# Everything in this repository is built with make inside WSL, so text files
+# keep LF endings even when they are checked out on Windows.
+* text=auto eol=lf
+*.elf binary
